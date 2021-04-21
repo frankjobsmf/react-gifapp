@@ -1,0 +1,36 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: cadetblue;
+    color: #fff;
+    font-size: 1rem;
+    padding: 50px;
+}
+
+.input-group{
+    padding-top: 15px;
+}
+
+
+.p-grid{
+    color: #000;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.img-grid{
+    padding-top: 1.3rem;
+
+}
+
+.card{
+    align-content: center;
+    border: 1px solid grey;
+    border-radius: 7px;
+    margin-bottom: 1.3rem;
+    margin-right: 10px;
+    overflow: hidden;
+    padding-top: 1rem;
+}
